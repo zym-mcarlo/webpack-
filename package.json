@@ -1,0 +1,28 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "n",
+    "start": "webpack-dev-server --config build/webpack.dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zym-mcarlo/webpack-.git"
+  },
+  "keywords": [
+    "439464"
+  ],
+  "author": "zhengyimeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zym-mcarlo/webpack-/issues"
+  },
+  "homepage": "https://github.com/zym-mcarlo/webpack-#readme",
+  "dependencies": {
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.7",
+    "webpack-merge": "^4.1.4"
+  }
+}
